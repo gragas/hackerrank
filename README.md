@@ -8,6 +8,7 @@ Right now, I'm solving at least one problem from each of the following domains e
 * Algorithms
 * Functional Programming
 * Linux Shell
+* SQL
 
 ## Completed Domains
 
